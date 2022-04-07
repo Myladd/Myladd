@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Myladd
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Jango
+- 👀 I’m interested in Front-end Dev
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 
 <!---
